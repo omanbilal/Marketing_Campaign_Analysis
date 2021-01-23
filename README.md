@@ -7,13 +7,13 @@ The data set marketing_data.csv which consists of 2,240 customers of XYZ company
  - Channel performance
  You need to analyze the data set to understand this problem and propose data-driven solutions.
 
-Section 01: Exploratory Data Analysis<br>
+<b>Section 01: Exploratory Data Analysis</b><br>
 Are there any null values or outliers? How will you wrangle/handle them?
 Are there any variables that warrant transformations?
 Are there any useful variables that you can engineer with the given data?
 Do you notice any patterns or anomalies in the data? Can you plot them?
 
-Section 02: Statistical Analysis<br>
+<b>Section 02: Statistical Analysis</b><br>
 Please run statistical tests in the form of regressions to answer these questions & propose data-driven action recommendations to your CMO. Make sure to interpret your results with non-statistical jargon so your CMO can understand your findings.
 
 What factors are significantly related to the number of store purchases?
