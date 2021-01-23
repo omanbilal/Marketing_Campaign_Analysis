@@ -1,5 +1,5 @@
 # Marketing_Campaign_Analysis
-Content
+<b>Content</b><br>
 The data set marketing_data.csv which consists of 2,240 customers of XYZ company with data on:
  - Customer profiles
  - Product preferences
